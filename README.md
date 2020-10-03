@@ -1,2 +1,2 @@
-# rn-native-modules
-A simple app creating native modules for React Native Apps
+# Native Modules
+A simple React Native app creating Native Modules
